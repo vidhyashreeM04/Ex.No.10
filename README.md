@@ -2,65 +2,153 @@
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Date:
-## Reg. No.
+## Reg. No.212222060289
 
 ## Aim:
+
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
 
+## Apparatus / Requirements:
+
+Computer or Laptop
+
+Internet Connection
+
+ChatGPT or similar AI model
+
 ## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+1.Introduction to Prompt Patterns:
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+○ Query Decomposition: Break down complex queries into smaller, actionable parts.
+
+○ Decision Making: Ask the model to choose between options or directions.
+
+○ Answer Engineering: Refine outputs by giving detailed instructions on structure or format.
+
+○ Fact Check List: Ensure the content is factually accurate.
+
+○ Tail Generation: Extend the content logically to create depth.
+
+○ Menu Actions: Present multiple action choices and guide the AI to select one.
+
+○ Semantic Filter: Control tone, style, and accuracy.
+
+2.Choosing the Content Type:
+Select the type of content to generate. Examples include:
+
+○ Reports (e.g., market trends)
+
+○ Case Studies
+
+○ Articles (e.g., educational, opinion pieces)
+
+○ Creative Content (e.g., short stories, comic scripts)
+
+3.Creating the Prompts:
+
+○ Begin with simple prompts to generate initial content.
+
+○ Gradually refine prompts by using decision-making, tail generation, and semantic filtering.
+
+4.Generating and Refining Outputs:
+
+○ Generate drafts using initial prompts.
+
+○ Refine outputs iteratively to improve quality and structure.
+
+5.Review and Evaluation:
+Evaluate the generated content for:
+
+○ Coherence: Logical and structured content.
+
+○ Creativity/Originality: Engaging and fresh ideas.
+
+○ Accuracy: Factually correct content (for reports).
+
+○ Tone and Style: Match intended tone (formal, creative, educational, etc.).
+
+## Test Case Scenarios:
+
+For this experiment, two scenarios were selected from the list:
+
+1.Business Report on Market Trends
+
+2.Creative Writing – Sci-Fi Short Story
+
+## Execution:
+Scenario 1: Business Report on Market Trends
+
+# Basic Prompt:
+
+“Write a short business report on current market trends in the Indian e-commerce sector.”
+
+# First Draft (Simple Prompt Output):
+The Indian e-commerce sector is experiencing rapid growth due to increasing internet penetration and smartphone usage. Consumers prefer online shopping for convenience and better pricing. Major players like Amazon, Flipkart, and Reliance are competing through faster delivery and personalized marketing.
+
+# Refined Prompt (Using Query Decomposition + Semantic Filtering):
+
+“Write a detailed business report on current market trends in the Indian e-commerce sector. Include an introduction, key growth drivers, major players, technological innovations, and future outlook. Maintain a formal and analytical tone.”
+
+# Refined Content:
+
+# Business Report: Indian E-commerce Market Trends
+
+# Introduction:
+The Indian e-commerce market has emerged as one of the fastest-growing digital economies, driven by technological advancement and changing consumer behavior.
+
+# Key Growth Drivers:
+
+Increasing internet penetration and affordable data plans.
+
+Rapid adoption of smartphones in rural and urban areas.
+
+Rising preference for contactless shopping post-pandemic.
+
+# Major Players:
+Amazon, Flipkart, Reliance JioMart, and Tata Digital dominate the sector, each focusing on logistics efficiency, product variety, and regional market expansion.
+
+Technological Innovations:
+The use of AI for personalized recommendations, AR/VR for immersive shopping, and fintech integration for seamless payments are key trends.
+
+# Future Outlook:
+With government support for digital initiatives and growing consumer trust, the sector is projected to reach USD 200 billion by 2027.
+
+## Scenario 2: Creative Writing – Sci-Fi Short Story
+
+# Basic Prompt:
+
+“Write a short sci-fi story.”
+
+# First Draft (Simple Prompt Output):
+In 2050, humans built a colony on Mars. A young astronaut named Leo discovered an ancient alien artifact that changed everything.
+
+# Refined Prompt (Using Tail Generation + Decision Making):
+
+“Write a 300-word sci-fi short story set on Mars in 2050. The main character should be a young astronaut who discovers an alien artifact. Make the tone suspenseful and end with a twist.”
+
+Refined Content:
+
+# The Signal Beneath the Red Dust
+
+Leo adjusted his helmet as the Martian storm cleared. The radar had detected a faint energy pulse two kilometers from the colony. As he brushed away the red dust, a metallic surface emerged — unlike any Earth technology. The artifact emitted a rhythmic hum, syncing with his heartbeat.
+
+He radioed Command, but before he could finish, the signal cut off. The artifact’s surface shifted, revealing glowing symbols. Suddenly, Leo’s visor flashed a message: “Welcome back, Commander.”
+
+Confused, he realized the artifact had scanned his DNA. It projected a holographic map — not of Mars, but of Earth, thousands of years in the past. His mind raced. Was this artifact built by humans who left Earth long before recorded history?
+
+As the ground trembled beneath his feet, the artifact unfolded into a gateway. The last thing Leo saw before being pulled in was the colony’s power grid going dark.
+
+## Results:
+
+Using basic prompts generated simple, generic content.
+
+Applying prompt refinement techniques like query decomposition, tail generation, and semantic filtering produced more structured, engaging, and accurate content.
+
+Different prompting techniques clearly influenced tone, depth, and clarity of the outputs.
+
+## Conclusion
+
+The experiment successfully demonstrated how different prompting techniques can enhance content creation. Starting with simple prompts and progressively applying advanced strategies improved the structure, coherence, and creativity of the generated outputs. This shows that effective prompt engineering is a critical skill for generating high-quality content for academic, professional, or creative use.
+
+siness reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
